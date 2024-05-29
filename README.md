@@ -42,11 +42,11 @@ def count_words(text):
     num_words = len(words)
     return num_words
 
-# Prompt the user to enter some text
+### Prompt the user to enter some text
 user_text = input("Please enter the text: ")
 
-# Count the words in the user input
+### Count the words in the user input
 word_count = count_words(user_text)
 
-# Print the result
+### Print the result
 print(f"The number of words in the given text is: {word_count}")
