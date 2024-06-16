@@ -16,7 +16,7 @@ The Word Counter is a simple Python program that counts the number of words in a
 ### Installation
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/word-counter.git
+   git clone https://github.com/NagaBharadwaj/word-counter.git
 
 ### Navigate to the project directory:
 cd word-counter
